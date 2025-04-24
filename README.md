@@ -1,6 +1,6 @@
 # LLM driven SQL Chatbot
 
-Welcome to the GitHub repository for our tutorial on building a natural language SQL chatbot using Mixtral LLM. This project guides you through the development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of Mixtral LLM model, integrated with a Streamlit GUI for an enhanced interaction experience.
+Development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of Mixtral LLM model, integrated with a Streamlit GUI for an enhanced interaction experience.
 
 
 ## Features
