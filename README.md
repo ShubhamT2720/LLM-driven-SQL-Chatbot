@@ -1,6 +1,6 @@
 # LLM driven SQL Chatbot
 
-Development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of Mixtral LLM model, integrated with a Streamlit GUI for an enhanced interaction experience.
+An AI integrated chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of Mixtral LLM model, integrated with a Streamlit GUI for an enhanced interaction experience.
 
 
 ## Features
